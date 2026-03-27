@@ -1,3 +1,3 @@
 # .github
 
-Younju-and-i 깃허브
+Younju-and-i 대문
