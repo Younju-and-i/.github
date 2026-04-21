@@ -5,7 +5,7 @@
 |프로젝트명|기술|
 |:---|:---|
 |**항공데이터 분석**|• **Backend**:  `STREAMLIT`,`PANDAS`,`PLOTY`<br>• **DataBase**: `MARIADB`, `HEIDI SQL`|
-|**서울교통공사 데이터 분석**|• **FrontEnd**: `REACT`,`VITE`,`AXIOS`,`CHART.JS`, `KAKAOMAPS API`<br>• **Backend**: `FASTAPI`, `APACHE SPARK`,`PANDAS`<br>• **DataBase**: `MARIADB`, `HEIDI SQL|
+|**서울교통공사 데이터 분석**|• **FrontEnd**: `REACT`,`VITE`,`AXIOS`,`CHART.JS`, `KAKAOMAPS API`<br>• **Backend**: `FASTAPI`, `APACHE SPARK`,`PANDAS`<br>• **DataBase**: `MARIADB`, `HEIDI SQL`|
 
 
 <!--
